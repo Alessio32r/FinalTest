@@ -28,6 +28,7 @@
 https://github.com/Alessio32r/FinalTest
 
 2. Нарисовать блок-схему алгоритма
+
 ![Блок-схема](https://github.com/Alessio32r/FinalTest/blob/main/Block%20diagram.png?raw=true)
 
 3. Снабдить репозиторий оформленным текстовым описанием решения (файл README.md)
